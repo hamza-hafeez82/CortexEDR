@@ -1,0 +1,15 @@
+fastapi==0.109.0
+uvicorn[standard]
+supabase
+redis
+groq
+celery
+sqlalchemy[asyncio]
+asyncpg
+pydantic-settings
+python-dotenv
+alembic
+httpx
+python-multipart
+jose[cryptography]
+passlib[bcrypt]
